@@ -51,5 +51,8 @@ To run this WordPress landing page, you'll need the following:
 7. **Deploy**  
    Once the theme and plugins are set up, deploy the site to your live server.
 
-## Contact
-For inquiries, please contact us at [info@yourcompany.com](mailto:info@yourcompany.com).
+## **Contact Us**
+
+Interested in building your custom e-commerce solution with React? Contact our team for a consultation and let’s create something exceptional together!
+
+## 💼 [Mail us](mailto:info@all4it.org) | 🌐 [Our web-site](https://all4it.org/)
